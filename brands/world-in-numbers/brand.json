@@ -1,0 +1,37 @@
+{
+  "name": "World in Numbers",
+  "description": "Neutral, data-first explainers on economy and geopolitics. Dark, high-contrast, chart-friendly.",
+  "version": "1.0.0",
+
+  "colors": {
+    "primary": "#2dd4bf",
+    "primaryLight": "#99f6e4",
+    "accent": "#f59e0b",
+    "accent2": "#60a5fa",
+    "accent3": "#f472b6",
+    "textDark": "#0f172a",
+    "textMedium": "#cbd5e1",
+    "textLight": "#94a3b8",
+    "bgLight": "#f8fafc",
+    "bgDark": "#0b1220",
+    "bgOverlay": "rgba(11, 18, 32, 0.92)",
+    "divider": "#1e293b",
+    "shadow": "rgba(0, 0, 0, 0.4)"
+  },
+
+  "fonts": {
+    "primary": "'Inter', system-ui, -apple-system, sans-serif",
+    "mono": "'JetBrains Mono', ui-monospace, Menlo, monospace"
+  },
+
+  "spacing": { "xs": 8, "sm": 16, "md": 24, "lg": 48, "xl": 80, "xxl": 120 },
+  "borderRadius": { "sm": 6, "md": 12, "lg": 20 },
+
+  "typography": {
+    "h1": { "size": 96, "weight": 800 },
+    "h2": { "size": 72, "weight": 700 },
+    "h3": { "size": 48, "weight": 700 },
+    "body": { "size": 40, "weight": 400 },
+    "label": { "size": 30, "weight": 600, "letterSpacing": 2 }
+  }
+}

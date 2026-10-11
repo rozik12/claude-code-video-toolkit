@@ -1,0 +1,11 @@
+{
+  "voiceId": "YOUR_EN_VOICE_ID_HERE",
+  "description": "Default (English) voice. Calm, neutral documentary narrator. Russian voice lives under voices.ru.",
+  "settings": { "stability": 0.65, "similarityBoost": 0.85, "style": 0.15, "useSpeakerBoost": true },
+  "model": "eleven_multilingual_v2",
+  "voices": {
+    "en": { "voiceId": "YOUR_EN_VOICE_ID_HERE" },
+    "ru": { "voiceId": "YOUR_RU_VOICE_ID_HERE" }
+  },
+  "qwen3": { "speaker": "Ryan", "language": "Auto", "tone": "professional", "instruct": "", "clone": null }
+}
