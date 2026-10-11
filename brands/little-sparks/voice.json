@@ -1,0 +1,7 @@
+{
+  "voiceId": "YOUR_VOICE_ID_HERE",
+  "description": "Warm, slow, friendly female voice, ~120-130 wpm. Pick a kid-friendly ElevenLabs voice and paste its ID.",
+  "settings": { "stability": 0.7, "similarityBoost": 0.85, "style": 0.35, "useSpeakerBoost": true },
+  "model": "eleven_multilingual_v2",
+  "qwen3": { "speaker": "Vivian", "language": "English", "tone": "warm", "instruct": "Speak slowly and cheerfully like a kind kindergarten teacher, clear pronunciation.", "clone": null }
+}
